@@ -1,0 +1,5 @@
+OLS regression model for the association between age and hours per week worked
+
+Results:
+
+The results of the linear regression model indicated that age of the adult (Beta= 0.0622 , p<.0001) was  associated with hours worked per week . But the R-quared is very low.  implying this variable doesn’t represent most of the variability 
